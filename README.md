@@ -50,7 +50,6 @@ mst scrub photo.jpg
 
 ## Learn
 
-
 This project includes step-by-step learning materials covering security theory, architecture, and implementation.
 
 | Module | Topic |
