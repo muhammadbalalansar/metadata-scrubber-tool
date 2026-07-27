@@ -22,6 +22,7 @@
 > *Developed by [@Heritage-XioN](https://github.com/Heritage-XioN)*
 ## What It Does
 
+
 - Strip metadata from JPEG, PNG, PDF, Word, Excel, and PowerPoint files
 - Concurrent processing with ThreadPoolExecutor handles 1000+ files efficiently
 - Dry-run mode previews what would be removed before making changes
