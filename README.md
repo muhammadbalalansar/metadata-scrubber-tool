@@ -36,6 +36,7 @@ uv tool install metadata-scrubber
 mst scrub photo.jpg
 ```
 
+
 > [!TIP]
 > This project uses [`just`](https://github.com/casey/just) as a command runner. Type `just` to see all available commands.
 >
