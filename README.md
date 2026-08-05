@@ -43,6 +43,7 @@ mst scrub photo.jpg
 
 ## Commands
 
+
 | Command | Description |
 |---------|-------------|
 | `mst read <file>` | Inspect metadata fields present in a file |
