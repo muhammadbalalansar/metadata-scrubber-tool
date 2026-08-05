@@ -41,7 +41,6 @@ mst scrub photo.jpg
 >
 > Install: `curl -sSf https://just.systems/install.sh | bash -s -- --to ~/.local/bin`
 
-
 ## Commands
 
 | Command | Description |
