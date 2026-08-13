@@ -57,7 +57,6 @@ This project includes step-by-step learning materials covering security theory, 
 | [02 - Architecture](learn/02-ARCHITECTURE.md) | System design and data flow |
 | [03 - Implementation](learn/03-IMPLEMENTATION.md) | Code walkthrough |
 | [04 - Challenges](learn/04-CHALLENGES.md) | Extension ideas and exercises |
-
 ## License
 
 AGPL 3.0
