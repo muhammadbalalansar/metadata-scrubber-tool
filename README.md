@@ -32,6 +32,7 @@
 ## Quick Start
 
 ```bash
+
 uv tool install metadata-scrubber
 mst scrub photo.jpg
 ```
