@@ -41,7 +41,7 @@ mst scrub photo.jpg
 > This project uses [`just`](https://github.com/casey/just) as a command runner. Type `just` to see all available commands.
 >
 > Install: `curl -sSf https://just.systems/install.sh | bash -s -- --to ~/.local/bin`
-## Commands
+## Commands:
 
 | Command | Description |
 |---------|-------------|
