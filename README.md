@@ -29,6 +29,7 @@
 - Verification reports show before/after comparison of metadata fields
 - Smart format detection uses file signatures, not extensions
 - Removes GPS coordinates, author info, timestamps, camera data, and software traces
+- 
 ## Quick Start
 
 ```bash
