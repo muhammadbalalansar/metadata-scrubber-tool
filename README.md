@@ -51,7 +51,7 @@ mst scrub photo.jpg
 | `mst scrub <file>` | Remove all metadata from a file |
 | `mst verify <file>` | Confirm metadata was successfully removed |
 
-## Learn:
+## Learn
 
 This project includes step-by-step learning materials covering security theory, architecture, and implementation.
 
