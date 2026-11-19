@@ -57,7 +57,7 @@ This project includes step-by-step learning materials covering security theory, 
 
 | Module | Topic |
 |--------|-------|
-| [00 - Overview](learn/00-OVERVIEW.md) | Prerequisites and quick start |
+| [00 - Overview](learn/00-OVERVIEW.md) | Prerequisites and quick start |      
 | [01 - Concepts](learn/01-CONCEPTS.md) | Security theory and real-world breaches |
 | [02 - Architecture](learn/02-ARCHITECTURE.md) | System design and data flow |
 | [03 - Implementation](learn/03-IMPLEMENTATION.md) | Code walkthrough |
