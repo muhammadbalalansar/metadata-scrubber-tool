@@ -26,7 +26,7 @@
 - Strip metadata from JPEG, PNG, PDF, Word, Excel, and PowerPoint files
 - Concurrent processing with ThreadPoolExecutor handles 1000+ files efficiently
 - Dry-run mode previews what would be removed before making changes
-- Verification reports show before/after comparison of metadata fields
+- Verification reports show before/after comparison of metadata fields        
 - Smart format detection uses file signatures, not extensions
 - Removes GPS coordinates, author info, timestamps, camera data, and software traces
   
